@@ -1,5 +1,4 @@
 ### Hi there 👋
-Website downtime 
 <!--
 **Khulani1000/Khulani1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
